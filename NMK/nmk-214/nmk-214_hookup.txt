@@ -1,0 +1,70 @@
+	NMK215		|	NMK214
+================|============
+13 (Port7-0)	| 2 (Init0)
+14 (Port7-1)	| 3 (Init0)
+15 (Port7-2)	| 4 (Init0)
+16 (Port7-3)	| 5 (Init0)
+				|
+58 (Port3-2)	| 6 (InitCLK)
+
+
+
+OBJ-ROM (word)	|	NMK214
+================|============
+OBJ-A0			| 7 (A0)
+OBJ-A1			| 8 (A1)
+OBJ-A2			| 9 (A2)
+OBJ-A3			| 10 (A3)
+OBJ-A10			| 11 (A4)
+OBJ-A12			| 12 (A5)
+OBJ-A13			| 13 (A6)
+OBJ-A14			| 14 (A7)
+OBJ-A15			| 15 (A8)
+OBJ-A16			| 16 (A9)
+OBJ-A17			| 17 (A10)
+OBJ-A18			| 18 (A11)
+OBJ-A19			| 19 (A12)
+================|============
+D0				| 20 (DENC0)
+D1				| 21 (DENC1)
+D2				| 22 (DENC2)
+D3				| 23 (DENC3)
+D4				| 24 (DENC4)
+D5				| 25 (DENC5)
+D6				| 26 (DENC6)
+D7				| 27 (DENC7)
+D8				| 28 (DENC8)
+D9				| 29 (DENC9)
+D10				| 30 (DENC10)
+D11				| 31 (DENC11)
+D12				| 34 (DENC12)
+D13				| 35 (DENC13)
+D14				| 36 (DENC14)
+D15				| 37 (DENC15)
+
+
+
+BG-ROM (byte)	|	NMK214
+================|============
+BG-A0			| 7 (A0)
+BG-A1			| 8 (A1)
+BG-A2			| 9 (A2)
+BG-A3			| 10 (A3)
+BG-A11			| 11 (A4)
+BG-A13			| 12 (A5)
+BG-A14			| 13 (A6)
+BG-A15			| 14 (A7)
+BG-A16			| 15 (A8)
+BG-A17			| 16 (A9)
+BG-A18			| 17 (A10)
+BG-A19			| 18 (A11)
+BG-A20			| 19 (A12)
+================|============
+D0				| 35 (DENC13)
+D1				| 30 (DENC10)
+D2				| 24 (DENC4)
+D3				| 34 (DENC12)
+D4				| 26 (DENC6)
+D5				| 36 (DENC14)
+D6				| 31 (DENC11)
+D7				| 25 (DENC5)
