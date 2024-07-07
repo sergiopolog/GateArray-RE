@@ -1,6 +1,6 @@
 # NMK-214
 
-NEC CMOS-4(?) gate array. Model 65012
+NEC CMOS-4(?) gate array. Model 65012 in a SDIP64 package
 
 Used in tandem with NMK215 (Toshiba TLCS-90 MCU) for descrambling GFX data on some NMK arcade games.
 
