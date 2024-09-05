@@ -36,8 +36,8 @@ wire [1:0] OKI2_REG_SEL = ( OKI2_A[17:10] == 8'b0 ? OKI2_A[9:8] : OKI2_A[17:16] 
 
 always @(posedge REG_CLK or posedge RST) begin
 	if (RST) begin
-		OKI1_REGS <= {6'b0, 6'b0, 6'b0, 6'b0};
-		OKI2_REGS <= {6'b0, 6'b0, 6'b0, 6'b0};
+		OKI1_REGS <= '{6'b0, 6'b0, 6'b0, 6'b0};
+		OKI2_REGS <= '{6'b0, 6'b0, 6'b0, 6'b0};
 	end else begin
 		case (A[2:0])
 			3'b000: begin OKI1_REGS[0] <= D; end
