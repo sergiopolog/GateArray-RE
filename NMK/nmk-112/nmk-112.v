@@ -2,7 +2,7 @@
 // Sergio Galiano 'Recreativos Piscis' @Recre_Piscis
 // GPLV3 - See LICENSE
 
-// Untested !
+// Tested by @caiusarcade and works fine!  https://caiusarcade.blogspot.com/2025/04/nmk-111-and-nmk-112-reproduction.html
 
 module NMK_112(
 	input RST,

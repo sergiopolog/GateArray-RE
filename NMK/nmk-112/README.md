@@ -14,4 +14,4 @@ SVG file could be overlapped on die image from: [https://siliconpr0n.org/archive
 
 Huge thanks to:
 * [@furrtek](https://github.com/furrtek) for decapping and imaging the silicon die
-* [Caius](https://x.com/caiusarcade) for donating the chip
+* [Caius](https://x.com/caiusarcade) for donating the chip and testing it to check that works fine! [Reproduction link](https://caiusarcade.blogspot.com/2025/04/nmk-111-and-nmk-112-reproduction.html)
